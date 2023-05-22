@@ -15,6 +15,9 @@ This is my sample repository contribution which has only public access. For more
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoesSattes&layout=donut-vertical&count_private=true&show_icons=true&theme=radical)](https://github.com/JoesSattes)
 
+[![Sattaya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoesSattes)](https://github.com/JoesSattes)
+
+
 
 
 <!--
