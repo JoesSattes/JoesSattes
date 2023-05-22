@@ -11,7 +11,12 @@ This is my sample repository contribution which has only public access. For more
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JoesSattes&theme=onedark&rank=-C,-B)](https://github.com/JoesSattes)
 
-[![Sattaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoesSattes)](https://github.com/JoesSattes)
+[![Sattaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoesSattes&count_private=true&show_icons=true&theme=radical)](https://github.com/JoesSattes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoesSattes&layout=donut-vertical&count_private=true)](https://github.com/JoesSattes)
+
+
+
 <!--
 **JoesSattes/JoesSattes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
