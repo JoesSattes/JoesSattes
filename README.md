@@ -3,9 +3,9 @@
 My name's Sattaya Singkul ✨,
 Welcome to my profile. This is my sample repository contribution which has only public access. For more contribution, feel free to contact me~
 
+[![Google](https://img.shields.io/badge/scholar-4285F4?style=for-the-badge&logo=google&logoColor=white&link=https://scholar.google.com/citations?user=kJj-LQsAAAAJ&hl=en)](https://scholar.google.com/citations?user=kJj-LQsAAAAJ&hl=en)
 [![Linkedin Badge](https://img.shields.io/badge/-sattaya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sattaya-singkul/)](https://www.linkedin.com/in/sattaya-singkul/)
 [![Medium Badge](https://img.shields.io/badge/-@sattayasingkul-000000?style=flat&labelColor=000000&logo=Medium&link=https://sattayasingkul.medium.com/)](https://sattayasingkul.medium.com/)
-[![Google](https://img.shields.io/badge/scholar-4285F4?style=for-the-badge&logo=google&logoColor=white&link=https://scholar.google.com/citations?user=kJj-LQsAAAAJ&hl=en)](https://scholar.google.com/citations?user=kJj-LQsAAAAJ&hl=en)
 [![Outlook Badge](https://img.shields.io/badge/-joeysattaya-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:joeysattaya@hotmail.com)](mailto:joeysattaya@hotmail.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://joessatle.me)](https://joessatle.me) -->
 [![Facebook](https://img.shields.io/badge/Sattaya_Singkul-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/JoesSattes/)](https://www.facebook.com/JoesSattes/)
